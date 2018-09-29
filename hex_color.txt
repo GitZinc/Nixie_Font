@@ -1,0 +1,3 @@
+Frame:       000000
+Medium :     F27F2A
+Silhouette:  5F1515
